@@ -19,7 +19,7 @@ make start
 
 This should complete with all services running (usually takes about 20 minutes for me), and you should be able to browse to the UI at http://localhost:3000 and sign in, but there won't be any data yet.
 
-> While that's running, if you haven't already, [download a package archive]() and unpack it into `./pkgs`. Vagrant will share the directory into the VM as `/hab/cache/artifacts`
+> While that's running, if you haven't already, [download a package archive](http://nunciato-shared-files.s3.amazonaws.com/pkgs.zip) and unpack it into `./pkgs`. Vagrant will share the directory into the VM as `/hab/cache/artifacts`
 
 When that finishes and all the services are running, in another tab, run:
 
