@@ -1,0 +1,3 @@
+auth_token = "YOUR_TOKEN"
+depot_url = "http://localhost:9636/v1/depot"
+auto_publish = true

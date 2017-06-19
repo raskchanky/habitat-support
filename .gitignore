@@ -1,0 +1,4 @@
+.vagrant/
+pkgs/
+pkgs.zip
+pkgs.tar.gz
